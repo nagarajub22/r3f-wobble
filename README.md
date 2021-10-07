@@ -1,2 +1,2 @@
-# r3f-wobble
+# r3f-template
 Created with CodeSandbox
